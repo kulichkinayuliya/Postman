@@ -59,7 +59,12 @@ PATCH используется для частичного изменения р
 ### ✔️ Решение:
 ![](https://github.com/kulichkinayuliya/Postman/blob/main/file/Postman_oWWIvEP3WV.png)
 
-9. Удалите пользователя, созданного в п.4. Что содержится в теле ответа? Сделайте скриншот. Выполните get запрос удаленного пользователя. Какой ответ пришел и почему? Сделайте скриншот.
+9. Удалите пользователя, созданного в п.4. Что содержится в теле ответа? Сделайте скриншот. Выполните get запрос удаленного пользователя. Сделайте скриншот.
+
+### ✔️ Решение:
+![](https://github.com/kulichkinayuliya/Postman/blob/main/file/Postman_s8Qk891G1I.png)
+![](https://github.com/kulichkinayuliya/Postman/blob/main/file/Postman_5tvv0TN5PH.png)
+
 
 
 
