@@ -1,5 +1,5 @@
 # 📝 Postman
-
+Рабоче пространство в [Postman](https://www.postman.com/satellite-cosmologist-1082208/workspace/test-workspace/collection/30288313-654ce6f1-ddbd-4434-89ee-18ca148b11f0)
 ---
 
 ## ✏️ Задание 1
